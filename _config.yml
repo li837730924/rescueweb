@@ -1,13 +1,13 @@
 
-title: 救援 # your title
-url: 'http://junlulocky.com'
-baseurl: '/online-cv' #change it according to your repository name
+title: 西工大舞蹈机器人救援组 # your title
+url: 'https://li837730924.github.io/rescueweb/'
+baseurl: '/online-cv' #rescueweb
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-location: San Francisco , CA
+yourname: Liao  ## put your name
+location: Shaanxi Province, China
 
 
 ## Social Profiles
